@@ -1,16 +1,19 @@
 <resources>
-    <string name="app_name">TurismoColombia3</string>
+    <string name="app_name">Turismo Colombia</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Turismo Colombia</string>
+    <string name="nav_header_subtitle">candres2018@hotmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
+    <string name="menu_home">Acerca de</string>
+    <string name="menu_gallery">Lista de sitos Granada</string>
+    <string name="menu_slideshow">Lista de sitos Mosquera</string>
+    <string name="menu_tools">Lista de sitos Quipama</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="bienvenido">Bienvenido a</string>
+    <string name="volver">Salir</string>
+    <string name="textView_acerca">Creado por         Carlos Ocaña</string>
+    <string name="action_settings">Configuraciones</string>
 </resources>

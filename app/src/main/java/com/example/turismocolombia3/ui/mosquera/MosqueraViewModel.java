@@ -1,16 +1,16 @@
-package com.example.turismocolombia3.ui.slideshow;
+package com.example.turismocolombia3.ui.mosquera;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class SlideshowViewModel extends ViewModel {
+public class MosqueraViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public SlideshowViewModel() {
+    public MosqueraViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is slideshow fragment");
+        mText.setValue("This is mosquera fragment");
     }
 
     public LiveData<String> getText() {
